@@ -1,9 +1,9 @@
 import Vue from 'vue'
-import VueLazyload from 'vue-lazyload'
+import ImportLazy from 'import-lazy'
 
 import App from './App.vue'
 
-Vue.use(VueLazyload)
+Vue.use(ImportLazy)
 
 new Vue({
   el: '#app',

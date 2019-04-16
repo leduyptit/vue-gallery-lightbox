@@ -7,7 +7,9 @@
           style="display: inline-block"
         >
           <img 
-            v-lazy="image.src" 
+            v-lazy="image.src"
+            :src="image.src"
+            lazy="loading"
             style="height: 100px" 
             @click="openGallery(index)"
           >
