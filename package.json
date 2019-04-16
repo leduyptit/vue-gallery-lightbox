@@ -1,0 +1,23 @@
+{
+  "name": "vue-gallery-lightbox",
+  "version": "1.0.0",
+  "description": "Gallery Lightbox",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leduyptit/vue-gallery-lightbox.git"
+  },
+  "keywords": [
+    "Gallery",
+    "Lightbox"
+  ],
+  "author": "DuyLK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leduyptit/vue-gallery-lightbox/issues"
+  },
+  "homepage": "https://github.com/leduyptit/vue-gallery-lightbox#readme"
+}
