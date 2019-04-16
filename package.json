@@ -2,7 +2,7 @@
   "name": "vue-gallery-lightbox",
   "version": "1.0.0",
   "description": "Gallery Lightbox",
-  "main": "src/index.js",
+  "main": "dist/vue-image-lightbox.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
