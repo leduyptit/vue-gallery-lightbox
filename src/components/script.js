@@ -122,14 +122,14 @@ export default {
 
     imagesThumb() {
       if (this.siteLoading) {
-        return this.images.map(({url}) => ({
-          src: url,
+        return this.images.map(({thumb}) => ({
+          src: thumb,
           loading: this.siteLoading,
           error: this.siteLoading,
         }))
       }
 
-      return this.images.map(({url}) => url)
+      return this.images.map(({thumb}) => thumb)
     },
   },
 
