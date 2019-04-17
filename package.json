@@ -1,6 +1,6 @@
 {
   "name": "vue-gallery-lightbox",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Gallery Lightbox",
   "main": "dist/vue-image-lightbox.min.js",
   "scripts": {

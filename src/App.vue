@@ -18,7 +18,7 @@
       <LightBox 
         :images="images" 
         ref="lightbox"
-        :show-caption="true"
+        :show-caption="false"
         :show-light-box="false"
       >
       </LightBox>
